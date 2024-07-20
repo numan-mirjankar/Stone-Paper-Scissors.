@@ -83,6 +83,9 @@
     border-radius: 8px;
     padding: 10px;
     width: 80px;
+      display:flex;
+      algn-item:center;
+      justify-content:center;
   }
   
   .score p {
